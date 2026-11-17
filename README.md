@@ -1,6 +1,6 @@
 # AI Agent Conversations with AutoGen and Ollama
 
-This project demonstrates how to build and run multiple AI agents locally using AutoGen and Ollama. The example included in this repository creates two stand-up comedian agents that engage in a conversation while maintaining conversational context and state.
+This project demonstrates my personal experimentation how to build and run multiple AI agents locally using AutoGen and Ollama. The example included in this repository creates two stand-up comedian agents that engage in a conversation while maintaining conversational context and state.
 
 ## Features
 - [X] Run AI agents locally using Ollama (No OpenAI API key required)
